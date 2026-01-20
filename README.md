@@ -21,7 +21,7 @@ Bu loyiha Python dasturlash tilida yozilgan oddiy, lekin funksional konsol kalku
 ```bash
 python calculator.py
 
-Masalan: 
+ 
 1-sonni kiriting: 12
 2-sonni kiriting: 2
 Amalni tanlang (+, -, *, /): -
